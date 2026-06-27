@@ -2,4 +2,4 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagetora66&exclude_repo=forked-repo1,forked-repo2)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagetora66&size_weight=0&count_weight=1)]
