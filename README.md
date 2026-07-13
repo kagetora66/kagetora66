@@ -2,4 +2,4 @@
 
  Top Languages by Repo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagetora66&size_weight=0&count_weight=1)
+![Top Languages](https://your-deployment-url.vercel.app/api/languages)
