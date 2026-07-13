@@ -2,4 +2,4 @@
 
  Top Languages by Repo
 
-[![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=kagetora66)](https://github.com/LuciNyan/pixel-profile)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kagetora66&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats-fast)
